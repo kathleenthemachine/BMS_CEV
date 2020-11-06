@@ -1,4 +1,4 @@
-# Battery Management System Fall 2019 Technical Report
+# Battery Management System 2020 Technical Report
 by Kathleen Wang, Lauren Shen
 
 [Project Repository](https://github.coecis.cornell.edu/Resistance-Racing/BMS19_20)
