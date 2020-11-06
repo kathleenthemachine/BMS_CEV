@@ -259,13 +259,3 @@ The battery management system is also preferably a project that should have at l
 - Datasheet for 50A Fuse (0299050): https://www.littelfuse.com/~/media/automotive/datasheets/fuses/passenger-car-and-commercial-vehicle/blade-fuses/littelfuse_maxi_32v_datasheet.pdf; https://www.littelfuse.com/~/media/commercial-vehicle/catalogs/commercial-vehicle-fuse-fuseholder-guide.pdf  
 - Datasheet for In-rush current limiter (SL320R530): https://www.ametherm.com/datasheetspdf/SL320R530.pdf  
 
-**Past reports**  
-BMS 2018 v1  
-- [Fall Report](2020background/FA17_TechnicalReport_Electrical_BMS.pdf)  
-- [Spring Report](2020background/SP18_TechnicalReflection_BMS.pdf)  
-- [Schematic](2020background/BMS17_18.pdf)  
-
-BMS 2019 v2  
-- [Fall Report](2020background/FA18_TechnicalReport_Electrical_BMS.pdf)  
-- [Spring Report](2020background/SP18_TechnicalReflection_BMS.pdf)   
-
