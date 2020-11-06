@@ -219,7 +219,7 @@ We approximate the current draw from each system in order to have an estimate of
 Total: ~30A  
 
 ## Bill of Materials <a name="BOM"></a>  
-https://docs.google.com/spreadsheets/d/15F1QkPO6ktOI_wqq4PYELffnYGGmIFblJrkn0i938C4/edit#gid=0
+https://docs.google.com/spreadsheets/d/15F1QkPO6ktOI_wqq4PYELffnYGGmIFblJrkn0i938C4/edit?usp=sharing
 
 ## Manufacturing/Testing <a name="manufacturing-plan"></a>
 Before ordering the board, please do a thorough check (including having multiple people look over your design).
